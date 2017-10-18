@@ -1,6 +1,8 @@
-============
 cotimelog
-============
+=========
+
+|image0| |PyPI|
+
 
 **cotimelog**, inspired from [ConcurrentLogHandler](https://pypi.python.org/pypi/ConcurrentLogHandler/0.9.1).
 To be honest, it is almost the same code. Just edit to make the log file rotated by time.
@@ -50,3 +52,7 @@ License
 ^^^^^^^
 
 `Apache License, Version 2.0 <http://www.apache.org/licenses/LICENSE-2.0.html>`_
+
+
+.. |image0| image:: https://travis-ci.org/badbye/timelog.svg?branch=master
+.. |PyPI| image:: https://img.shields.io/pypi/pyversions/cotimelog.svg?style=flat-square
